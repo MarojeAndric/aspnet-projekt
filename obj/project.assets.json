@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Maroje Andric\\.nuget\\packages\\": {},
+    "C:\\Users\\38595\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maroje Andric\\Desktop\\My folder\\TVZ\\Treca godina\\ASP\\Vjezba.Model\\Vjezba.Model..csproj",
+      "projectUniqueName": "C:\\Users\\38595\\OneDrive\\Radna površina\\ASP\\aspnet-projekt\\Vjezba.Model..csproj",
       "projectName": "Vjezba.Model.",
-      "projectPath": "C:\\Users\\Maroje Andric\\Desktop\\My folder\\TVZ\\Treca godina\\ASP\\Vjezba.Model\\Vjezba.Model..csproj",
-      "packagesPath": "C:\\Users\\Maroje Andric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maroje Andric\\Desktop\\My folder\\TVZ\\Treca godina\\ASP\\Vjezba.Model\\obj\\",
+      "projectPath": "C:\\Users\\38595\\OneDrive\\Radna površina\\ASP\\aspnet-projekt\\Vjezba.Model..csproj",
+      "packagesPath": "C:\\Users\\38595\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\38595\\OneDrive\\Radna površina\\ASP\\aspnet-projekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Maroje Andric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\38595\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
